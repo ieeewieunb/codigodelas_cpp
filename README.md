@@ -38,13 +38,19 @@ Módulo|Conteúdo
 8| Struct
 9| Arquivos
 
-### Questões
+### Exercício
 
-Um breve resumo de cada questão
+Um breve resumo de cada questão:
 
 Módulo|Nome|Proposta
 --|--|--
-1| q1_olamundovertical| O programa deve imprimir "Ola, mundo" na vertical, com uma letra por linha
+1| q1_olamundovertical| Deve imprimir "Ola, mundo" na vertical, com uma letra por linha
+
+Um breve resumo de cada problema:
+
+Módulo|Nome|Proposta
+--|--|--
+1|p1_olamundo|Deve imprimir "Olá mundo", mas há um erro semântico
 
 ## Conteúdos para Estudo
 
